@@ -6,5 +6,5 @@ All the data that we used is located in the [csv file](https://github.com/edelic
 Sources for the Data :
 - Crop yield : [FAOSTAT](https://www.fao.org/faostat/en/#data/QCL)
 - Pesticides : [FAOSTAT](https://www.fao.org/faostat/en/#data/RP)
-- Rainfall : [BKMG](https://jakarta.bps.go.id/indicator/151/373/2/curah-hujan-di-stasiun-kemayoran-menurut-bulan.html)
-- Temperature :[BMKG](https://www.bmkg.go.id/iklim/?p=ekstrem-perubahan-iklim)
+- Rainfall : [BKMG | BADAN METEOROLOGI, KLIMATOLOGI, DAN GEOFISIKA](https://jakarta.bps.go.id/indicator/151/373/2/curah-hujan-di-stasiun-kemayoran-menurut-bulan.html)
+- Temperature :[BMKG | BADAN METEOROLOGI, KLIMATOLOGI, DAN GEOFISIKA](https://www.bmkg.go.id/iklim/?p=ekstrem-perubahan-iklim)
