@@ -1,0 +1,721 @@
+Year,Country,Item,Rainfall (mm),Temperature (Celcius),Yield (hg/ha),Pesticides (Tons)
+2010,Indonesia,"Abaca, manila hemp, raw",190.78333333333333,26.6,8275,313639.25
+2010,Indonesia,Areca nuts,190.78333333333333,26.6,12623,313639.25
+2010,Indonesia,Avocados,190.78333333333333,26.6,109367,313639.25
+2010,Indonesia,Bananas,190.78333333333333,26.6,568256,313639.25
+2010,Indonesia,"Beans, dry",190.78333333333333,26.6,11300,313639.25
+2010,Indonesia,Cabbages,190.78333333333333,26.6,205098,313639.25
+2010,Indonesia,Cantaloupes and other melons,190.78333333333333,26.6,134779,313639.25
+2010,Indonesia,Carrots and turnips,190.78333333333333,26.6,148745,313639.25
+2010,Indonesia,"Cashew nuts, in shell",190.78333333333333,26.6,2021,313639.25
+2010,Indonesia,"Cassava, fresh",190.78333333333333,26.6,202174,313639.25
+2010,Indonesia,Castor oil seeds,190.78333333333333,26.6,4474,313639.25
+2010,Indonesia,Cauliflowers and broccoli,190.78333333333333,26.6,115954,313639.25
+2010,Indonesia,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",190.78333333333333,26.6,58339,313639.25
+2010,Indonesia,"Cinnamon and cinnamon-tree flowers, raw",190.78333333333333,26.6,8872,313639.25
+2010,Indonesia,"Cloves (whole stems), raw",190.78333333333333,26.6,3065,313639.25
+2010,Indonesia,Cocoa beans,190.78333333333333,26.6,5114,313639.25
+2010,Indonesia,"Coconuts, in shell",190.78333333333333,26.6,60403,313639.25
+2010,Indonesia,"Coffee, green",190.78333333333333,26.6,5393,313639.25
+2010,Indonesia,Cucumbers and gherkins,190.78333333333333,26.6,96123,313639.25
+2010,Indonesia,"Edible roots and tubers with high starch or inulin content, n.e.c., fresh",190.78333333333333,26.6,59061,313639.25
+2010,Indonesia,Eggplants (aubergines),190.78333333333333,26.6,92472,313639.25
+2010,Indonesia,"Ginger, raw",190.78333333333333,26.6,177971,313639.25
+2010,Indonesia,Green corn (maize),190.78333333333333,26.6,44356,313639.25
+2010,Indonesia,Green garlic,190.78333333333333,26.6,67704,313639.25
+2010,Indonesia,"Groundnuts, excluding shelled",190.78333333333333,26.6,22028,313639.25
+2010,Indonesia,Kapok fruit,190.78333333333333,26.6,9721,313639.25
+2010,Indonesia,"Kenaf, and other textile bast fibres, raw or retted",190.78333333333333,26.6,15113,313639.25
+2010,Indonesia,Leeks and other alliaceous vegetables,190.78333333333333,26.6,94000,313639.25
+2010,Indonesia,Maize (corn),190.78333333333333,26.6,44359,313639.25
+2010,Indonesia,"Mangoes, guavas and mangosteens",190.78333333333333,26.6,119718,313639.25
+2010,Indonesia,Natural rubber in primary forms,190.78333333333333,26.6,7938,313639.25
+2010,Indonesia,"Nutmeg, mace, cardamoms, raw",190.78333333333333,26.6,1338,313639.25
+2010,Indonesia,Oil palm fruit,190.78333333333333,26.6,172960,313639.25
+2010,Indonesia,"Onions and shallots, dry (excluding dehydrated)",190.78333333333333,26.6,95676,313639.25
+2010,Indonesia,Oranges,190.78333333333333,26.6,355431,313639.25
+2010,Indonesia,"Other beans, green",190.78333333333333,26.6,65246,313639.25
+2010,Indonesia,"Other fruits, n.e.c.",190.78333333333333,26.6,117953,313639.25
+2010,Indonesia,"Other nuts (excluding wild edible nuts and groundnuts), in shell, n.e.c.",190.78333333333333,26.6,4098,313639.25
+2010,Indonesia,Other pulses n.e.c.,190.78333333333333,26.6,5773,313639.25
+2010,Indonesia,"Other stimulant, spice and aromatic crops, n.e.c.",190.78333333333333,26.6,235572,313639.25
+2010,Indonesia,Other sugar crops n.e.c.,190.78333333333333,26.6,26866,313639.25
+2010,Indonesia,"Other tropical fruits, n.e.c.",190.78333333333333,26.6,114836,313639.25
+2010,Indonesia,"Other vegetables, fresh n.e.c.",190.78333333333333,26.6,100133,313639.25
+2010,Indonesia,Papayas,190.78333333333333,26.6,732576,313639.25
+2010,Indonesia,"Pepper (Piper spp.), raw",190.78333333333333,26.6,4493,313639.25
+2010,Indonesia,Pineapples,190.78333333333333,26.6,1158426,313639.25
+2010,Indonesia,Potatoes,190.78333333333333,26.6,159445,313639.25
+2010,Indonesia,"Pumpkins, squash and gourds",190.78333333333333,26.6,345877,313639.25
+2010,Indonesia,Rice,190.78333333333333,26.6,50253,313639.25
+2010,Indonesia,"Seed cotton, unginned",190.78333333333333,26.6,3087,313639.25
+2010,Indonesia,"Sisal, raw",190.78333333333333,26.6,11770,313639.25
+2010,Indonesia,Soya beans,190.78333333333333,26.6,13726,313639.25
+2010,Indonesia,Spinach,190.78333333333333,26.6,31188,313639.25
+2010,Indonesia,Sugar cane,190.78333333333333,26.6,609253,313639.25
+2010,Indonesia,Sweet potatoes,190.78333333333333,26.6,113272,313639.25
+2010,Indonesia,Tea leaves,190.78333333333333,26.6,52499,313639.25
+2010,Indonesia,Tomatoes,190.78333333333333,26.6,145798,313639.25
+2010,Indonesia,Unmanufactured tobacco,190.78333333333333,26.6,6274,313639.25
+2010,Indonesia,"Vanilla, raw",190.78333333333333,26.6,2255,313639.25
+2010,Indonesia,Watermelons,190.78333333333333,26.6,126807,313639.25
+2011,Indonesia,"Abaca, manila hemp, raw",99.10000000000001,26.5,8267,206061.7
+2011,Indonesia,Areca nuts,99.10000000000001,26.5,12330,206061.7
+2011,Indonesia,Avocados,99.10000000000001,26.5,127443,206061.7
+2011,Indonesia,Bananas,99.10000000000001,26.5,588799,206061.7
+2011,Indonesia,"Beans, dry",99.10000000000001,26.5,11480,206061.7
+2011,Indonesia,Cabbages,99.10000000000001,26.5,208769,206061.7
+2011,Indonesia,Cantaloupes and other melons,99.10000000000001,26.5,145446,206061.7
+2011,Indonesia,Carrots and turnips,99.10000000000001,26.5,158576,206061.7
+2011,Indonesia,"Cashew nuts, in shell",99.10000000000001,26.5,1997,206061.7
+2011,Indonesia,"Cassava, fresh",99.10000000000001,26.5,202955,206061.7
+2011,Indonesia,Castor oil seeds,99.10000000000001,26.5,2614,206061.7
+2011,Indonesia,Cauliflowers and broccoli,99.10000000000001,26.5,120211,206061.7
+2011,Indonesia,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",99.10000000000001,26.5,67240,206061.7
+2011,Indonesia,"Cinnamon and cinnamon-tree flowers, raw",99.10000000000001,26.5,8844,206061.7
+2011,Indonesia,"Cloves (whole stems), raw",99.10000000000001,26.5,2184,206061.7
+2011,Indonesia,Cocoa beans,99.10000000000001,26.5,4111,206061.7
+2011,Indonesia,"Coconuts, in shell",99.10000000000001,26.5,58725,206061.7
+2011,Indonesia,"Coffee, green",99.10000000000001,26.5,4939,206061.7
+2011,Indonesia,Cucumbers and gherkins,99.10000000000001,26.5,97309,206061.7
+2011,Indonesia,"Edible roots and tubers with high starch or inulin content, n.e.c., fresh",99.10000000000001,26.5,59375,206061.7
+2011,Indonesia,Eggplants (aubergines),99.10000000000001,26.5,99455,206061.7
+2011,Indonesia,"Ginger, raw",99.10000000000001,26.5,172545,206061.7
+2011,Indonesia,Green corn (maize),99.10000000000001,26.5,45668,206061.7
+2011,Indonesia,Green garlic,99.10000000000001,26.5,80684,206061.7
+2011,Indonesia,"Groundnuts, excluding shelled",99.10000000000001,26.5,22495,206061.7
+2011,Indonesia,Kapok fruit,99.10000000000001,26.5,13585,206061.7
+2011,Indonesia,"Kenaf, and other textile bast fibres, raw or retted",99.10000000000001,26.5,15629,206061.7
+2011,Indonesia,Leeks and other alliaceous vegetables,99.10000000000001,26.5,94725,206061.7
+2011,Indonesia,Maize (corn),99.10000000000001,26.5,45652,206061.7
+2011,Indonesia,"Mangoes, guavas and mangosteens",99.10000000000001,26.5,118138,206061.7
+2011,Indonesia,Natural rubber in primary forms,99.10000000000001,26.5,8652,206061.7
+2011,Indonesia,"Nutmeg, mace, cardamoms, raw",99.10000000000001,26.5,1628,206061.7
+2011,Indonesia,Oil palm fruit,99.10000000000001,26.5,174948,206061.7
+2011,Indonesia,"Onions and shallots, dry (excluding dehydrated)",99.10000000000001,26.5,95351,206061.7
+2011,Indonesia,Oranges,99.10000000000001,26.5,351909,206061.7
+2011,Indonesia,"Other beans, green",99.10000000000001,26.5,68342,206061.7
+2011,Indonesia,"Other fruits, n.e.c.",99.10000000000001,26.5,126065,206061.7
+2011,Indonesia,"Other nuts (excluding wild edible nuts and groundnuts), in shell, n.e.c.",99.10000000000001,26.5,4369,206061.7
+2011,Indonesia,Other pulses n.e.c.,99.10000000000001,26.5,5822,206061.7
+2011,Indonesia,"Other stimulant, spice and aromatic crops, n.e.c.",99.10000000000001,26.5,214488,206061.7
+2011,Indonesia,Other sugar crops n.e.c.,99.10000000000001,26.5,27027,206061.7
+2011,Indonesia,"Other tropical fruits, n.e.c.",99.10000000000001,26.5,79622,206061.7
+2011,Indonesia,"Other vegetables, fresh n.e.c.",99.10000000000001,26.5,95437,206061.7
+2011,Indonesia,Papayas,99.10000000000001,26.5,866803,206061.7
+2011,Indonesia,"Pepper (Piper spp.), raw",99.10000000000001,26.5,4866,206061.7
+2011,Indonesia,Pineapples,99.10000000000001,26.5,1248987,206061.7
+2011,Indonesia,Potatoes,99.10000000000001,26.5,159562,206061.7
+2011,Indonesia,"Pumpkins, squash and gourds",99.10000000000001,26.5,442856,206061.7
+2011,Indonesia,Rice,99.10000000000001,26.5,49995,206061.7
+2011,Indonesia,"Seed cotton, unginned",99.10000000000001,26.5,2222,206061.7
+2011,Indonesia,"Sisal, raw",99.10000000000001,26.5,11745,206061.7
+2011,Indonesia,Soya beans,99.10000000000001,26.5,13681,206061.7
+2011,Indonesia,Spinach,99.10000000000001,26.5,34238,206061.7
+2011,Indonesia,Sugar cane,99.10000000000001,26.5,551724,206061.7
+2011,Indonesia,Sweet potatoes,99.10000000000001,26.5,123289,206061.7
+2011,Indonesia,Tea leaves,99.10000000000001,26.5,52018,206061.7
+2011,Indonesia,Tomatoes,99.10000000000001,26.5,166494,206061.7
+2011,Indonesia,Unmanufactured tobacco,99.10000000000001,26.5,9379,206061.7
+2011,Indonesia,"Vanilla, raw",99.10000000000001,26.5,2069,206061.7
+2011,Indonesia,Watermelons,99.10000000000001,26.5,148797,206061.7
+2012,Indonesia,"Abaca, manila hemp, raw",127.3,26.7,7647,254912.71
+2012,Indonesia,Areca nuts,127.3,26.7,12570,254912.71
+2012,Indonesia,Avocados,127.3,26.7,140169,254912.71
+2012,Indonesia,Bananas,127.3,26.7,599959,254912.71
+2012,Indonesia,"Beans, dry",127.3,26.7,11602,254912.71
+2012,Indonesia,Cabbages,127.3,26.7,225593,254912.71
+2012,Indonesia,Cantaloupes and other melons,127.3,26.7,160156,254912.71
+2012,Indonesia,Carrots and turnips,127.3,26.7,158717,254912.71
+2012,Indonesia,"Cashew nuts, in shell",127.3,26.7,2034,254912.71
+2012,Indonesia,"Cassava, fresh",127.3,26.7,214018,254912.71
+2012,Indonesia,Castor oil seeds,127.3,26.7,3333,254912.71
+2012,Indonesia,Cauliflowers and broccoli,127.3,26.7,115351,254912.71
+2012,Indonesia,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",127.3,26.7,71858,254912.71
+2012,Indonesia,"Cinnamon and cinnamon-tree flowers, raw",127.3,26.7,8802,254912.71
+2012,Indonesia,"Cloves (whole stems), raw",127.3,26.7,2023,254912.71
+2012,Indonesia,Cocoa beans,127.3,26.7,3996,254912.71
+2012,Indonesia,"Coconuts, in shell",127.3,26.7,64667,254912.71
+2012,Indonesia,"Coffee, green",127.3,26.7,5601,254912.71
+2012,Indonesia,Cucumbers and gherkins,127.3,26.7,99746,254912.71
+2012,Indonesia,"Edible roots and tubers with high starch or inulin content, n.e.c., fresh",127.3,26.7,61069,254912.71
+2012,Indonesia,Eggplants (aubergines),127.3,26.7,102618,254912.71
+2012,Indonesia,"Ginger, raw",127.3,26.7,156556,254912.71
+2012,Indonesia,Green corn (maize),127.3,26.7,48971,254912.71
+2012,Indonesia,Green garlic,127.3,26.7,67014,254912.71
+2012,Indonesia,"Groundnuts, excluding shelled",127.3,26.7,22358,254912.71
+2012,Indonesia,Kapok fruit,127.3,26.7,14073,254912.71
+2012,Indonesia,"Kenaf, and other textile bast fibres, raw or retted",127.3,26.7,14878,254912.71
+2012,Indonesia,Leeks and other alliaceous vegetables,127.3,26.7,102149,254912.71
+2012,Indonesia,Maize (corn),127.3,26.7,48987,254912.71
+2012,Indonesia,"Mangoes, guavas and mangosteens",127.3,26.7,126318,254912.71
+2012,Indonesia,Natural rubber in primary forms,127.3,26.7,8646,254912.71
+2012,Indonesia,"Nutmeg, mace, cardamoms, raw",127.3,26.7,1885,254912.71
+2012,Indonesia,Oil palm fruit,127.3,26.7,172853,254912.71
+2012,Indonesia,"Onions and shallots, dry (excluding dehydrated)",127.3,26.7,96888,254912.71
+2012,Indonesia,Oranges,127.3,26.7,311197,254912.71
+2012,Indonesia,"Other beans, green",127.3,26.7,68747,254912.71
+2012,Indonesia,"Other fruits, n.e.c.",127.3,26.7,124263,254912.71
+2012,Indonesia,"Other nuts (excluding wild edible nuts and groundnuts), in shell, n.e.c.",127.3,26.7,4189,254912.71
+2012,Indonesia,Other pulses n.e.c.,127.3,26.7,6136,254912.71
+2012,Indonesia,"Other stimulant, spice and aromatic crops, n.e.c.",127.3,26.7,196378,254912.71
+2012,Indonesia,Other sugar crops n.e.c.,127.3,26.7,26667,254912.71
+2012,Indonesia,"Other tropical fruits, n.e.c.",127.3,26.7,139260,254912.71
+2012,Indonesia,"Other vegetables, fresh n.e.c.",127.3,26.7,100112,254912.71
+2012,Indonesia,Papayas,127.3,26.7,774559,254912.71
+2012,Indonesia,"Pepper (Piper spp.), raw",127.3,26.7,4918,254912.71
+2012,Indonesia,Pineapples,127.3,26.7,1048423,254912.71
+2012,Indonesia,Potatoes,127.3,26.7,165820,254912.71
+2012,Indonesia,"Pumpkins, squash and gourds",127.3,26.7,404289,254912.71
+2012,Indonesia,Rice,127.3,26.7,51510,254912.71
+2012,Indonesia,"Seed cotton, unginned",127.3,26.7,3082,254912.71
+2012,Indonesia,"Sisal, raw",127.3,26.7,11667,254912.71
+2012,Indonesia,Soya beans,127.3,26.7,14854,254912.71
+2012,Indonesia,Spinach,127.3,26.7,33567,254912.71
+2012,Indonesia,Sugar cane,127.3,26.7,648356,254912.71
+2012,Indonesia,Sweet potatoes,127.3,26.7,139290,254912.71
+2012,Indonesia,Tea leaves,127.3,26.7,51313,254912.71
+2012,Indonesia,Tomatoes,127.3,26.7,157518,254912.71
+2012,Indonesia,Unmanufactured tobacco,127.3,26.7,9649,254912.71
+2012,Indonesia,"Vanilla, raw",127.3,26.7,1558,254912.71
+2012,Indonesia,Watermelons,127.3,26.7,156166,254912.71
+2013,Indonesia,"Abaca, manila hemp, raw",194.53333333333333,26.6,8571,314990.4
+2013,Indonesia,Areca nuts,194.53333333333333,26.6,8545,314990.4
+2013,Indonesia,Avocados,194.53333333333333,26.6,137869,314990.4
+2013,Indonesia,Bananas,194.53333333333333,26.6,596683,314990.4
+2013,Indonesia,"Beans, dry",194.53333333333333,26.6,11241,314990.4
+2013,Indonesia,Cabbages,194.53333333333333,26.6,226923,314990.4
+2013,Indonesia,Cantaloupes and other melons,194.53333333333333,26.6,162124,314990.4
+2013,Indonesia,Carrots and turnips,194.53333333333333,26.6,159686,314990.4
+2013,Indonesia,"Cashew nuts, in shell",194.53333333333333,26.6,2097,314990.4
+2013,Indonesia,"Cassava, fresh",194.53333333333333,26.6,224601,314990.4
+2013,Indonesia,Castor oil seeds,194.53333333333333,26.6,3256,314990.4
+2013,Indonesia,Cauliflowers and broccoli,194.53333333333333,26.6,121790,314990.4
+2013,Indonesia,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",194.53333333333333,26.6,69463,314990.4
+2013,Indonesia,"Cinnamon and cinnamon-tree flowers, raw",194.53333333333333,26.6,8720,314990.4
+2013,Indonesia,"Cloves (whole stems), raw",194.53333333333333,26.6,2186,314990.4
+2013,Indonesia,Cocoa beans,194.53333333333333,26.6,4142,314990.4
+2013,Indonesia,"Coconuts, in shell",194.53333333333333,26.6,60596,314990.4
+2013,Indonesia,"Coffee, green",194.53333333333333,26.6,5443,314990.4
+2013,Indonesia,Cucumbers and gherkins,194.53333333333333,26.6,99731,314990.4
+2013,Indonesia,"Edible roots and tubers with high starch or inulin content, n.e.c., fresh",194.53333333333333,26.6,60000,314990.4
+2013,Indonesia,Eggplants (aubergines),194.53333333333333,26.6,107584,314990.4
+2013,Indonesia,"Ginger, raw",194.53333333333333,26.6,151067,314990.4
+2013,Indonesia,Green corn (maize),194.53333333333333,26.6,48482,314990.4
+2013,Indonesia,Green garlic,194.53333333333333,26.6,63598,314990.4
+2013,Indonesia,"Groundnuts, excluding shelled",194.53333333333333,26.6,23716,314990.4
+2013,Indonesia,Kapok fruit,194.53333333333333,26.6,14231,314990.4
+2013,Indonesia,"Kenaf, and other textile bast fibres, raw or retted",194.53333333333333,26.6,14741,314990.4
+2013,Indonesia,Leeks and other alliaceous vegetables,194.53333333333333,26.6,101281,314990.4
+2013,Indonesia,Maize (corn),194.53333333333333,26.6,48441,314990.4
+2013,Indonesia,"Mangoes, guavas and mangosteens",194.53333333333333,26.6,121370,314990.4
+2013,Indonesia,Natural rubber in primary forms,194.53333333333333,26.6,8739,314990.4
+2013,Indonesia,"Nutmeg, mace, cardamoms, raw",194.53333333333333,26.6,2009,314990.4
+2013,Indonesia,Oil palm fruit,194.53333333333333,26.6,172067,314990.4
+2013,Indonesia,"Onions and shallots, dry (excluding dehydrated)",194.53333333333333,26.6,102163,314990.4
+2013,Indonesia,Oranges,194.53333333333333,26.6,340867,314990.4
+2013,Indonesia,"Other beans, green",194.53333333333333,26.6,70425,314990.4
+2013,Indonesia,"Other fruits, n.e.c.",194.53333333333333,26.6,124925,314990.4
+2013,Indonesia,"Other nuts (excluding wild edible nuts and groundnuts), in shell, n.e.c.",194.53333333333333,26.6,4977,314990.4
+2013,Indonesia,Other pulses n.e.c.,194.53333333333333,26.6,6087,314990.4
+2013,Indonesia,"Other stimulant, spice and aromatic crops, n.e.c.",194.53333333333333,26.6,224977,314990.4
+2013,Indonesia,Other sugar crops n.e.c.,194.53333333333333,26.6,27848,314990.4
+2013,Indonesia,"Other tropical fruits, n.e.c.",194.53333333333333,26.6,132665,314990.4
+2013,Indonesia,"Other vegetables, fresh n.e.c.",194.53333333333333,26.6,97292,314990.4
+2013,Indonesia,Papayas,194.53333333333333,26.6,840710,314990.4
+2013,Indonesia,"Pepper (Piper spp.), raw",194.53333333333333,26.6,5294,314990.4
+2013,Indonesia,Pineapples,194.53333333333333,26.6,1162012,314990.4
+2013,Indonesia,Potatoes,194.53333333333333,26.6,160184,314990.4
+2013,Indonesia,"Pumpkins, squash and gourds",194.53333333333333,26.6,354376,314990.4
+2013,Indonesia,Rice,194.53333333333333,26.6,51668,314990.4
+2013,Indonesia,"Seed cotton, unginned",194.53333333333333,26.6,2669,314990.4
+2013,Indonesia,"Sisal, raw",194.53333333333333,26.6,11333,314990.4
+2013,Indonesia,Soya beans,194.53333333333333,26.6,14161,314990.4
+2013,Indonesia,Spinach,194.53333333333333,26.6,31126,314990.4
+2013,Indonesia,Sugar cane,194.53333333333333,26.6,603048,314990.4
+2013,Indonesia,Sweet potatoes,194.53333333333333,26.6,147465,314990.4
+2013,Indonesia,Tea leaves,194.53333333333333,26.6,51758,314990.4
+2013,Indonesia,Tomatoes,194.53333333333333,26.6,166133,314990.4
+2013,Indonesia,Unmanufactured tobacco,194.53333333333333,26.6,9630,314990.4
+2013,Indonesia,"Vanilla, raw",194.53333333333333,26.6,1566,314990.4
+2013,Indonesia,Watermelons,194.53333333333333,26.6,143008,314990.4
+2014,Indonesia,"Abaca, manila hemp, raw",215.85,26.5,8237,253450.88
+2014,Indonesia,Areca nuts,215.85,26.5,3428,253450.88
+2014,Indonesia,Avocados,215.85,26.5,137369,253450.88
+2014,Indonesia,Bananas,215.85,26.5,601980,253450.88
+2014,Indonesia,"Beans, dry",215.85,26.5,11758,253450.88
+2014,Indonesia,Cabbages,215.85,26.5,227491,253450.88
+2014,Indonesia,Cantaloupes and other melons,215.85,26.5,162661,253450.88
+2014,Indonesia,Carrots and turnips,215.85,26.5,161172,253450.88
+2014,Indonesia,"Cashew nuts, in shell",215.85,26.5,2476,253450.88
+2014,Indonesia,"Cassava, fresh",215.85,26.5,233548,253450.88
+2014,Indonesia,Castor oil seeds,215.85,26.5,4063,253450.88
+2014,Indonesia,Cauliflowers and broccoli,215.85,26.5,120772,253450.88
+2014,Indonesia,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",215.85,26.5,71310,253450.88
+2014,Indonesia,"Cinnamon and cinnamon-tree flowers, raw",215.85,26.5,8340,253450.88
+2014,Indonesia,"Cloves (whole stems), raw",215.85,26.5,2417,253450.88
+2014,Indonesia,Cocoa beans,215.85,26.5,4217,253450.88
+2014,Indonesia,"Coconuts, in shell",215.85,26.5,60496,253450.88
+2014,Indonesia,"Coffee, green",215.85,26.5,5233,253450.88
+2014,Indonesia,Cucumbers and gherkins,215.85,26.5,98394,253450.88
+2014,Indonesia,"Edible roots and tubers with high starch or inulin content, n.e.c., fresh",215.85,26.5,60031,253450.88
+2014,Indonesia,Eggplants (aubergines),215.85,26.5,109492,253450.88
+2014,Indonesia,"Ginger, raw",215.85,26.5,147356,253450.88
+2014,Indonesia,Green corn (maize),215.85,26.5,49479,253450.88
+2014,Indonesia,Green garlic,215.85,26.5,88312,253450.88
+2014,Indonesia,"Groundnuts, excluding shelled",215.85,26.5,22450,253450.88
+2014,Indonesia,Kapok fruit,215.85,26.5,13567,253450.88
+2014,Indonesia,"Kenaf, and other textile bast fibres, raw or retted",215.85,26.5,13639,253450.88
+2014,Indonesia,Leeks and other alliaceous vegetables,215.85,26.5,100172,253450.88
+2014,Indonesia,Maize (corn),215.85,26.5,49540,253450.88
+2014,Indonesia,"Mangoes, guavas and mangosteens",215.85,26.5,108905,253450.88
+2014,Indonesia,Natural rubber in primary forms,215.85,26.5,8744,253450.88
+2014,Indonesia,"Nutmeg, mace, cardamoms, raw",215.85,26.5,2072,253450.88
+2014,Indonesia,Oil palm fruit,215.85,26.5,171281,253450.88
+2014,Indonesia,"Onions and shallots, dry (excluding dehydrated)",215.85,26.5,102232,253450.88
+2014,Indonesia,Oranges,215.85,26.5,361898,253450.88
+2014,Indonesia,"Other beans, green",215.85,26.5,75593,253450.88
+2014,Indonesia,"Other fruits, n.e.c.",215.85,26.5,125486,253450.88
+2014,Indonesia,"Other nuts (excluding wild edible nuts and groundnuts), in shell, n.e.c.",215.85,26.5,4788,253450.88
+2014,Indonesia,Other pulses n.e.c.,215.85,26.5,6031,253450.88
+2014,Indonesia,"Other stimulant, spice and aromatic crops, n.e.c.",215.85,26.5,225096,253450.88
+2014,Indonesia,Other sugar crops n.e.c.,215.85,26.5,28366,253450.88
+2014,Indonesia,"Other tropical fruits, n.e.c.",215.85,26.5,132140,253450.88
+2014,Indonesia,"Other vegetables, fresh n.e.c.",215.85,26.5,102671,253450.88
+2014,Indonesia,Papayas,215.85,26.5,866975,253450.88
+2014,Indonesia,"Pepper (Piper spp.), raw",215.85,26.5,5372,253450.88
+2014,Indonesia,Pineapples,215.85,26.5,1147182,253450.88
+2014,Indonesia,Potatoes,215.85,26.5,176668,253450.88
+2014,Indonesia,"Pumpkins, squash and gourds",215.85,26.5,376301,253450.88
+2014,Indonesia,Rice,215.85,26.5,51477,253450.88
+2014,Indonesia,"Seed cotton, unginned",215.85,26.5,2074,253450.88
+2014,Indonesia,"Sisal, raw",215.85,26.5,11332,253450.88
+2014,Indonesia,Soya beans,215.85,26.5,15511,253450.88
+2014,Indonesia,Spinach,215.85,26.5,29599,253450.88
+2014,Indonesia,Sugar cane,215.85,26.5,573331,253450.88
+2014,Indonesia,Sweet potatoes,215.85,26.5,151996,253450.88
+2014,Indonesia,Tea leaves,215.85,26.5,56439,253450.88
+2014,Indonesia,Tomatoes,215.85,26.5,155231,253450.88
+2014,Indonesia,Unmanufactured tobacco,215.85,26.5,9374,253450.88
+2014,Indonesia,"Vanilla, raw",215.85,26.5,1471,253450.88
+2014,Indonesia,Watermelons,215.85,26.5,182664,253450.88
+2015,Indonesia,"Abaca, manila hemp, raw",179.025,26.8,7937,313069.12
+2015,Indonesia,Areca nuts,179.025,26.8,4321,313069.12
+2015,Indonesia,Avocados,179.025,26.8,134557,313069.12
+2015,Indonesia,Bananas,179.025,26.8,601016,313069.12
+2015,Indonesia,"Beans, dry",179.025,26.8,11830,313069.12
+2015,Indonesia,Cabbages,179.025,26.8,223324,313069.12
+2015,Indonesia,Cantaloupes and other melons,179.025,26.8,186424,313069.12
+2015,Indonesia,Carrots and turnips,179.025,26.8,172563,313069.12
+2015,Indonesia,"Cashew nuts, in shell",179.025,26.8,2631,313069.12
+2015,Indonesia,"Cassava, fresh",179.025,26.8,229509,313069.12
+2015,Indonesia,Castor oil seeds,179.025,26.8,4688,313069.12
+2015,Indonesia,Cauliflowers and broccoli,179.025,26.8,105751,313069.12
+2015,Indonesia,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",179.025,26.8,74888,313069.12
+2015,Indonesia,"Cinnamon and cinnamon-tree flowers, raw",179.025,26.8,8690,313069.12
+2015,Indonesia,"Cloves (whole stems), raw",179.025,26.8,2607,313069.12
+2015,Indonesia,Cocoa beans,179.025,26.8,3471,313069.12
+2015,Indonesia,"Coconuts, in shell",179.025,26.8,57756,313069.12
+2015,Indonesia,"Coffee, green",179.025,26.8,5198,313069.12
+2015,Indonesia,Cucumbers and gherkins,179.025,26.8,102745,313069.12
+2015,Indonesia,"Edible roots and tubers with high starch or inulin content, n.e.c., fresh",179.025,26.8,60286,313069.12
+2015,Indonesia,Eggplants (aubergines),179.025,26.8,111997,313069.12
+2015,Indonesia,"Ginger, raw",179.025,26.8,204299,313069.12
+2015,Indonesia,Green corn (maize),179.025,26.8,51742,313069.12
+2015,Indonesia,Green garlic,179.025,26.8,79185,313069.12
+2015,Indonesia,"Groundnuts, excluding shelled",179.025,26.8,23411,313069.12
+2015,Indonesia,Kapok fruit,179.025,26.8,11145,313069.12
+2015,Indonesia,"Kenaf, and other textile bast fibres, raw or retted",179.025,26.8,6062,313069.12
+2015,Indonesia,Leeks and other alliaceous vegetables,179.025,26.8,96887,313069.12
+2015,Indonesia,Maize (corn),179.025,26.8,51784,313069.12
+2015,Indonesia,"Mangoes, guavas and mangosteens",179.025,26.8,123000,313069.12
+2015,Indonesia,Natural rubber in primary forms,179.025,26.8,8686,313069.12
+2015,Indonesia,"Nutmeg, mace, cardamoms, raw",179.025,26.8,2091,313069.12
+2015,Indonesia,Oil palm fruit,179.025,26.8,170496,313069.12
+2015,Indonesia,"Onions and shallots, dry (excluding dehydrated)",179.025,26.8,100649,313069.12
+2015,Indonesia,Oranges,179.025,26.8,366901,313069.12
+2015,Indonesia,"Other beans, green",179.025,26.8,74446,313069.12
+2015,Indonesia,"Other fruits, n.e.c.",179.025,26.8,126088,313069.12
+2015,Indonesia,"Other nuts (excluding wild edible nuts and groundnuts), in shell, n.e.c.",179.025,26.8,4793,313069.12
+2015,Indonesia,Other pulses n.e.c.,179.025,26.8,6037,313069.12
+2015,Indonesia,"Other stimulant, spice and aromatic crops, n.e.c.",179.025,26.8,204813,313069.12
+2015,Indonesia,Other sugar crops n.e.c.,179.025,26.8,27777,313069.12
+2015,Indonesia,"Other tropical fruits, n.e.c.",179.025,26.8,129718,313069.12
+2015,Indonesia,"Other vegetables, fresh n.e.c.",179.025,26.8,104713,313069.12
+2015,Indonesia,Papayas,179.025,26.8,881941,313069.12
+2015,Indonesia,"Pepper (Piper spp.), raw",179.025,26.8,4863,313069.12
+2015,Indonesia,Pineapples,179.025,26.8,1160805,313069.12
+2015,Indonesia,Potatoes,179.025,26.8,182027,313069.12
+2015,Indonesia,"Pumpkins, squash and gourds",179.025,26.8,456976,313069.12
+2015,Indonesia,Rice,179.025,26.8,53588,313069.12
+2015,Indonesia,"Seed cotton, unginned",179.025,26.8,1241,313069.12
+2015,Indonesia,"Sisal, raw",179.025,26.8,11395,313069.12
+2015,Indonesia,Soya beans,179.025,26.8,15690,313069.12
+2015,Indonesia,Spinach,179.025,26.8,35602,313069.12
+2015,Indonesia,Sugar cane,179.025,26.8,592340,313069.12
+2015,Indonesia,Sweet potatoes,179.025,26.8,160533,313069.12
+2015,Indonesia,Tea leaves,179.025,26.8,50222,313069.12
+2015,Indonesia,Tomatoes,179.025,26.8,160924,313069.12
+2015,Indonesia,Unmanufactured tobacco,179.025,26.8,9268,313069.12
+2015,Indonesia,"Vanilla, raw",179.025,26.8,1471,313069.12
+2015,Indonesia,Watermelons,179.025,26.8,157852,313069.12
+2016,Indonesia,"Abaca, manila hemp, raw",170.525,27.1,8261,349797.63
+2016,Indonesia,Areca nuts,170.525,27.1,4138,349797.63
+2016,Indonesia,Avocados,170.525,27.1,133836,349797.63
+2016,Indonesia,Bananas,170.525,27.1,598900,349797.63
+2016,Indonesia,"Beans, dry",170.525,27.1,11297,349797.63
+2016,Indonesia,Cabbages,170.525,27.1,210377,349797.63
+2016,Indonesia,Cantaloupes and other melons,170.525,27.1,171080,349797.63
+2016,Indonesia,Carrots and turnips,170.525,27.1,168286,349797.63
+2016,Indonesia,"Cashew nuts, in shell",170.525,27.1,2665,349797.63
+2016,Indonesia,"Cassava, fresh",170.525,27.1,246257,349797.63
+2016,Indonesia,Castor oil seeds,170.525,27.1,3925,349797.63
+2016,Indonesia,Cauliflowers and broccoli,170.525,27.1,119142,349797.63
+2016,Indonesia,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",170.525,27.1,75382,349797.63
+2016,Indonesia,"Cinnamon and cinnamon-tree flowers, raw",170.525,27.1,8156,349797.63
+2016,Indonesia,"Cloves (whole stems), raw",170.525,27.1,2562,349797.63
+2016,Indonesia,Cocoa beans,170.525,27.1,3861,349797.63
+2016,Indonesia,"Coconuts, in shell",170.525,27.1,60000,349797.63
+2016,Indonesia,"Coffee, green",170.525,27.1,5204,349797.63
+2016,Indonesia,Cucumbers and gherkins,170.525,27.1,101914,349797.63
+2016,Indonesia,"Edible roots and tubers with high starch or inulin content, n.e.c., fresh",170.525,27.1,60424,349797.63
+2016,Indonesia,Eggplants (aubergines),170.525,27.1,113710,349797.63
+2016,Indonesia,"Ginger, raw",170.525,27.1,263177,349797.63
+2016,Indonesia,Green corn (maize),170.525,27.1,53105,349797.63
+2016,Indonesia,Green garlic,170.525,27.1,87869,349797.63
+2016,Indonesia,"Groundnuts, excluding shelled",170.525,27.1,21816,349797.63
+2016,Indonesia,Kapok fruit,170.525,27.1,12930,349797.63
+2016,Indonesia,"Kenaf, and other textile bast fibres, raw or retted",170.525,27.1,9938,349797.63
+2016,Indonesia,Leeks and other alliaceous vegetables,170.525,27.1,93537,349797.63
+2016,Indonesia,Maize (corn),170.525,27.1,53052,349797.63
+2016,Indonesia,"Mangoes, guavas and mangosteens",170.525,27.1,127577,349797.63
+2016,Indonesia,Natural rubber in primary forms,170.525,27.1,9092,349797.63
+2016,Indonesia,"Nutmeg, mace, cardamoms, raw",170.525,27.1,1868,349797.63
+2016,Indonesia,Oil palm fruit,170.525,27.1,172341,349797.63
+2016,Indonesia,"Onions and shallots, dry (excluding dehydrated)",170.525,27.1,96693,349797.63
+2016,Indonesia,Oranges,170.525,27.1,370825,349797.63
+2016,Indonesia,"Other beans, green",170.525,27.1,73412,349797.63
+2016,Indonesia,"Other fruits, n.e.c.",170.525,27.1,125518,349797.63
+2016,Indonesia,"Other nuts (excluding wild edible nuts and groundnuts), in shell, n.e.c.",170.525,27.1,4792,349797.63
+2016,Indonesia,Other pulses n.e.c.,170.525,27.1,6051,349797.63
+2016,Indonesia,"Other stimulant, spice and aromatic crops, n.e.c.",170.525,27.1,213424,349797.63
+2016,Indonesia,Other sugar crops n.e.c.,170.525,27.1,28003,349797.63
+2016,Indonesia,"Other tropical fruits, n.e.c.",170.525,27.1,131545,349797.63
+2016,Indonesia,"Other vegetables, fresh n.e.c.",170.525,27.1,97905,349797.63
+2016,Indonesia,Papayas,170.525,27.1,878909,349797.63
+2016,Indonesia,"Pepper (Piper spp.), raw",170.525,27.1,4760,349797.63
+2016,Indonesia,Pineapples,170.525,27.1,1163461,349797.63
+2016,Indonesia,Potatoes,170.525,27.1,182549,349797.63
+2016,Indonesia,"Pumpkins, squash and gourds",170.525,27.1,683422,349797.63
+2016,Indonesia,Rice,170.525,27.1,50973,349797.63
+2016,Indonesia,"Seed cotton, unginned",170.525,27.1,2026,349797.63
+2016,Indonesia,"Sisal, raw",170.525,27.1,11360,349797.63
+2016,Indonesia,Soya beans,170.525,27.1,14899,349797.63
+2016,Indonesia,Spinach,170.525,27.1,36879,349797.63
+2016,Indonesia,Sugar cane,170.525,27.1,625908,349797.63
+2016,Indonesia,Sweet potatoes,170.525,27.1,175554,349797.63
+2016,Indonesia,Tea leaves,170.525,27.1,53382,349797.63
+2016,Indonesia,Tomatoes,170.525,27.1,153107,349797.63
+2016,Indonesia,Unmanufactured tobacco,170.525,27.1,8126,349797.63
+2016,Indonesia,"Vanilla, raw",170.525,27.1,1507,349797.63
+2016,Indonesia,Watermelons,170.525,27.1,138300,349797.63
+2017,Indonesia,"Abaca, manila hemp, raw",174.45833333333334,26.9,8009,279005.69
+2017,Indonesia,Areca nuts,174.45833333333334,26.9,4345,279005.69
+2017,Indonesia,Avocados,174.45833333333334,26.9,134461,279005.69
+2017,Indonesia,Bananas,174.45833333333334,26.9,601906,279005.69
+2017,Indonesia,"Beans, dry",174.45833333333334,26.9,11689,279005.69
+2017,Indonesia,Cabbages,174.45833333333334,26.9,158814,279005.69
+2017,Indonesia,Cantaloupes and other melons,174.45833333333334,26.9,157248,279005.69
+2017,Indonesia,Carrots and turnips,174.45833333333334,26.9,166074,279005.69
+2017,Indonesia,"Cashew nuts, in shell",174.45833333333334,26.9,2743,279005.69
+2017,Indonesia,"Cassava, fresh",174.45833333333334,26.9,246499,279005.69
+2017,Indonesia,Castor oil seeds,174.45833333333334,26.9,4214,279005.69
+2017,Indonesia,Cauliflowers and broccoli,174.45833333333334,26.9,113524,279005.69
+2017,Indonesia,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",174.45833333333334,26.9,76075,279005.69
+2017,Indonesia,"Cinnamon and cinnamon-tree flowers, raw",174.45833333333334,26.9,7737,279005.69
+2017,Indonesia,"Cloves (whole stems), raw",174.45833333333334,26.9,2023,279005.69
+2017,Indonesia,Cocoa beans,174.45833333333334,26.9,3562,279005.69
+2017,Indonesia,"Coconuts, in shell",174.45833333333334,26.9,60351,279005.69
+2017,Indonesia,"Coffee, green",174.45833333333334,26.9,5797,279005.69
+2017,Indonesia,Cucumbers and gherkins,174.45833333333334,26.9,106743,279005.69
+2017,Indonesia,"Edible roots and tubers with high starch or inulin content, n.e.c., fresh",174.45833333333334,26.9,60488,279005.69
+2017,Indonesia,Eggplants (aubergines),174.45833333333334,26.9,121953,279005.69
+2017,Indonesia,"Ginger, raw",174.45833333333334,26.9,205179,279005.69
+2017,Indonesia,Green corn (maize),174.45833333333334,26.9,51111,279005.69
+2017,Indonesia,Green garlic,174.45833333333334,26.9,90927,279005.69
+2017,Indonesia,"Groundnuts, excluding shelled",174.45833333333334,26.9,22672,279005.69
+2017,Indonesia,Kapok fruit,174.45833333333334,26.9,13194,279005.69
+2017,Indonesia,"Kenaf, and other textile bast fibres, raw or retted",174.45833333333334,26.9,8891,279005.69
+2017,Indonesia,Leeks and other alliaceous vegetables,174.45833333333334,26.9,83750,279005.69
+2017,Indonesia,Maize (corn),174.45833333333334,26.9,52274,279005.69
+2017,Indonesia,"Mangoes, guavas and mangosteens",174.45833333333334,26.9,130107,279005.69
+2017,Indonesia,Natural rubber in primary forms,174.45833333333334,26.9,10058,279005.69
+2017,Indonesia,"Nutmeg, mace, cardamoms, raw",174.45833333333334,26.9,1668,279005.69
+2017,Indonesia,Oil palm fruit,174.45833333333334,26.9,173483,279005.69
+2017,Indonesia,"Onions and shallots, dry (excluding dehydrated)",174.45833333333334,26.9,92947,279005.69
+2017,Indonesia,Oranges,174.45833333333334,26.9,372249,279005.69
+2017,Indonesia,"Other beans, green",174.45833333333334,26.9,74129,279005.69
+2017,Indonesia,"Other fruits, n.e.c.",174.45833333333334,26.9,126057,279005.69
+2017,Indonesia,"Other nuts (excluding wild edible nuts and groundnuts), in shell, n.e.c.",174.45833333333334,26.9,4796,279005.69
+2017,Indonesia,Other pulses n.e.c.,174.45833333333334,26.9,6068,279005.69
+2017,Indonesia,"Other stimulant, spice and aromatic crops, n.e.c.",174.45833333333334,26.9,202626,279005.69
+2017,Indonesia,Other sugar crops n.e.c.,174.45833333333334,26.9,28058,279005.69
+2017,Indonesia,"Other tropical fruits, n.e.c.",174.45833333333334,26.9,131081,279005.69
+2017,Indonesia,"Other vegetables, fresh n.e.c.",174.45833333333334,26.9,97368,279005.69
+2017,Indonesia,Papayas,174.45833333333334,26.9,898832,279005.69
+2017,Indonesia,"Pepper (Piper spp.), raw",174.45833333333334,26.9,4723,279005.69
+2017,Indonesia,Pineapples,174.45833333333334,26.9,1158701,279005.69
+2017,Indonesia,Potatoes,174.45833333333334,26.9,154044,279005.69
+2017,Indonesia,"Pumpkins, squash and gourds",174.45833333333334,26.9,635704,279005.69
+2017,Indonesia,Rice,174.45833333333334,26.9,50690,279005.69
+2017,Indonesia,"Seed cotton, unginned",174.45833333333334,26.9,923,279005.69
+2017,Indonesia,"Sisal, raw",174.45833333333334,26.9,11266,279005.69
+2017,Indonesia,Soya beans,174.45833333333334,26.9,15141,279005.69
+2017,Indonesia,Spinach,174.45833333333334,26.9,36521,279005.69
+2017,Indonesia,Sugar cane,174.45833333333334,26.9,666435,279005.69
+2017,Indonesia,Sweet potatoes,174.45833333333334,26.9,180205,279005.69
+2017,Indonesia,Tea leaves,174.45833333333334,26.9,56131,279005.69
+2017,Indonesia,Tomatoes,174.45833333333334,26.9,173104,279005.69
+2017,Indonesia,Unmanufactured tobacco,174.45833333333334,26.9,8971,279005.69
+2017,Indonesia,"Vanilla, raw",174.45833333333334,26.9,1598,279005.69
+2017,Indonesia,Watermelons,174.45833333333334,26.9,153411,279005.69
+2018,Indonesia,"Abaca, manila hemp, raw",121.64999999999999,26.7,7932,261305.81
+2018,Indonesia,Areca nuts,121.64999999999999,26.7,4374,261305.81
+2018,Indonesia,Avocados,121.64999999999999,26.7,134528,261305.81
+2018,Indonesia,Bananas,121.64999999999999,26.7,602069,261305.81
+2018,Indonesia,"Beans, dry",121.64999999999999,26.7,12242,261305.81
+2018,Indonesia,Cabbages,121.64999999999999,26.7,212968,261305.81
+2018,Indonesia,Cantaloupes and other melons,121.64999999999999,26.7,173728,261305.81
+2018,Indonesia,Carrots and turnips,121.64999999999999,26.7,170399,261305.81
+2018,Indonesia,"Cashew nuts, in shell",121.64999999999999,26.7,2928,261305.81
+2018,Indonesia,"Cassava, fresh",121.64999999999999,26.7,231135,261305.81
+2018,Indonesia,Castor oil seeds,121.64999999999999,26.7,4262,261305.81
+2018,Indonesia,Cauliflowers and broccoli,121.64999999999999,26.7,121390,261305.81
+2018,Indonesia,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",121.64999999999999,26.7,81914,261305.81
+2018,Indonesia,"Cinnamon and cinnamon-tree flowers, raw",121.64999999999999,26.7,8461,261305.81
+2018,Indonesia,"Cloves (whole stems), raw",121.64999999999999,26.7,2302,261305.81
+2018,Indonesia,Cocoa beans,121.64999999999999,26.7,4763,261305.81
+2018,Indonesia,"Coconuts, in shell",121.64999999999999,26.7,61071,261305.81
+2018,Indonesia,"Coffee, green",121.64999999999999,26.7,6035,261305.81
+2018,Indonesia,Cucumbers and gherkins,121.64999999999999,26.7,108900,261305.81
+2018,Indonesia,"Edible roots and tubers with high starch or inulin content, n.e.c., fresh",121.64999999999999,26.7,60511,261305.81
+2018,Indonesia,Eggplants (aubergines),121.64999999999999,26.7,123872,261305.81
+2018,Indonesia,"Ginger, raw",121.64999999999999,26.7,202808,261305.81
+2018,Indonesia,Green corn (maize),121.64999999999999,26.7,49833,261305.81
+2018,Indonesia,Green garlic,121.64999999999999,26.7,78400,261305.81
+2018,Indonesia,"Groundnuts, excluding shelled",121.64999999999999,26.7,25045,261305.81
+2018,Indonesia,Kapok fruit,121.64999999999999,26.7,12318,261305.81
+2018,Indonesia,"Kenaf, and other textile bast fibres, raw or retted",121.64999999999999,26.7,7965,261305.81
+2018,Indonesia,Leeks and other alliaceous vegetables,121.64999999999999,26.7,90611,261305.81
+2018,Indonesia,Maize (corn),121.64999999999999,26.7,53261,261305.81
+2018,Indonesia,"Mangoes, guavas and mangosteens",121.64999999999999,26.7,131755,261305.81
+2018,Indonesia,Natural rubber in primary forms,121.64999999999999,26.7,9888,261305.81
+2018,Indonesia,"Nutmeg, mace, cardamoms, raw",121.64999999999999,26.7,1925,261305.81
+2018,Indonesia,Oil palm fruit,121.64999999999999,26.7,172749,261305.81
+2018,Indonesia,"Onions and shallots, dry (excluding dehydrated)",121.64999999999999,26.7,95895,261305.81
+2018,Indonesia,Oranges,121.64999999999999,26.7,377785,261305.81
+2018,Indonesia,"Other beans, green",121.64999999999999,26.7,74000,261305.81
+2018,Indonesia,"Other fruits, n.e.c.",121.64999999999999,26.7,126766,261305.81
+2018,Indonesia,"Other nuts (excluding wild edible nuts and groundnuts), in shell, n.e.c.",121.64999999999999,26.7,4794,261305.81
+2018,Indonesia,Other pulses n.e.c.,121.64999999999999,26.7,6052,261305.81
+2018,Indonesia,"Other stimulant, spice and aromatic crops, n.e.c.",121.64999999999999,26.7,278750,261305.81
+2018,Indonesia,Other sugar crops n.e.c.,121.64999999999999,26.7,28187,261305.81
+2018,Indonesia,"Other tropical fruits, n.e.c.",121.64999999999999,26.7,130779,261305.81
+2018,Indonesia,"Other vegetables, fresh n.e.c.",121.64999999999999,26.7,99933,261305.81
+2018,Indonesia,Papayas,121.64999999999999,26.7,922729,261305.81
+2018,Indonesia,"Pepper (Piper spp.), raw",121.64999999999999,26.7,4749,261305.81
+2018,Indonesia,Pineapples,121.64999999999999,26.7,1221640,261305.81
+2018,Indonesia,Potatoes,121.64999999999999,26.7,187056,261305.81
+2018,Indonesia,"Pumpkins, squash and gourds",121.64999999999999,26.7,586792,261305.81
+2018,Indonesia,Rice,121.64999999999999,26.7,52031,261305.81
+2018,Indonesia,"Seed cotton, unginned",121.64999999999999,26.7,684,261305.81
+2018,Indonesia,"Sisal, raw",121.64999999999999,26.7,11223,261305.81
+2018,Indonesia,Soya beans,121.64999999999999,26.7,13174,261305.81
+2018,Indonesia,Spinach,121.64999999999999,26.7,40849,261305.81
+2018,Indonesia,Sugar cane,121.64999999999999,26.7,709710,261305.81
+2018,Indonesia,Sweet potatoes,121.64999999999999,26.7,199146,261305.81
+2018,Indonesia,Tea leaves,121.64999999999999,26.7,55486,261305.81
+2018,Indonesia,Tomatoes,121.64999999999999,26.7,180376,261305.81
+2018,Indonesia,Unmanufactured tobacco,121.64999999999999,26.7,9559,261305.81
+2018,Indonesia,"Vanilla, raw",121.64999999999999,26.7,1577,261305.81
+2018,Indonesia,Watermelons,121.64999999999999,26.7,151969,261305.81
+2019,Indonesia,"Abaca, manila hemp, raw",130.225,26.7,7905,274421.03
+2019,Indonesia,Areca nuts,130.225,26.7,4464,274421.03
+2019,Indonesia,Avocados,130.225,26.7,132995,274421.03
+2019,Indonesia,Bananas,130.225,26.7,520211,274421.03
+2019,Indonesia,"Beans, dry",130.225,26.7,12090,274421.03
+2019,Indonesia,Cabbages,130.225,26.7,217425,274421.03
+2019,Indonesia,Cantaloupes and other melons,130.225,26.7,141275,274421.03
+2019,Indonesia,Carrots and turnips,130.225,26.7,163137,274421.03
+2019,Indonesia,"Cashew nuts, in shell",130.225,26.7,3334,274421.03
+2019,Indonesia,"Cassava, fresh",130.225,26.7,230281,274421.03
+2019,Indonesia,Castor oil seeds,130.225,26.7,4129,274421.03
+2019,Indonesia,Cauliflowers and broccoli,130.225,26.7,126803,274421.03
+2019,Indonesia,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",130.225,26.7,86179,274421.03
+2019,Indonesia,"Cinnamon and cinnamon-tree flowers, raw",130.225,26.7,8240,274421.03
+2019,Indonesia,"Cloves (whole stems), raw",130.225,26.7,2453,274421.03
+2019,Indonesia,Cocoa beans,130.225,26.7,4707,274421.03
+2019,Indonesia,"Coconuts, in shell",130.225,26.7,60932,274421.03
+2019,Indonesia,"Coffee, green",130.225,26.7,6043,274421.03
+2019,Indonesia,Cucumbers and gherkins,130.225,26.7,111450,274421.03
+2019,Indonesia,"Edible roots and tubers with high starch or inulin content, n.e.c., fresh",130.225,26.7,60345,274421.03
+2019,Indonesia,Eggplants (aubergines),130.225,26.7,130909,274421.03
+2019,Indonesia,"Ginger, raw",130.225,26.7,215897,274421.03
+2019,Indonesia,Green corn (maize),130.225,26.7,56629,274421.03
+2019,Indonesia,Green garlic,130.225,26.7,72326,274421.03
+2019,Indonesia,"Groundnuts, excluding shelled",130.225,26.7,20714,274421.03
+2019,Indonesia,Kapok fruit,130.225,26.7,12334,274421.03
+2019,Indonesia,"Kenaf, and other textile bast fibres, raw or retted",130.225,26.7,8866,274421.03
+2019,Indonesia,Leeks and other alliaceous vegetables,130.225,26.7,97849,274421.03
+2019,Indonesia,Maize (corn),130.225,26.7,54483,274421.03
+2019,Indonesia,"Mangoes, guavas and mangosteens",130.225,26.7,130397,274421.03
+2019,Indonesia,Natural rubber in primary forms,130.225,26.7,9363,274421.03
+2019,Indonesia,"Nutmeg, mace, cardamoms, raw",130.225,26.7,1688,274421.03
+2019,Indonesia,Oil palm fruit,130.225,26.7,171789,274421.03
+2019,Indonesia,"Onions and shallots, dry (excluding dehydrated)",130.225,26.7,99265,274421.03
+2019,Indonesia,Oranges,130.225,26.7,379377,274421.03
+2019,Indonesia,"Other beans, green",130.225,26.7,75054,274421.03
+2019,Indonesia,"Other fruits, n.e.c.",130.225,26.7,125629,274421.03
+2019,Indonesia,"Other nuts (excluding wild edible nuts and groundnuts), in shell, n.e.c.",130.225,26.7,4794,274421.03
+2019,Indonesia,Other pulses n.e.c.,130.225,26.7,6057,274421.03
+2019,Indonesia,"Other stimulant, spice and aromatic crops, n.e.c.",130.225,26.7,269026,274421.03
+2019,Indonesia,Other sugar crops n.e.c.,130.225,26.7,28163,274421.03
+2019,Indonesia,"Other tropical fruits, n.e.c.",130.225,26.7,131139,274421.03
+2019,Indonesia,"Other vegetables, fresh n.e.c.",130.225,26.7,98396,274421.03
+2019,Indonesia,Papayas,130.225,26.7,924577,274421.03
+2019,Indonesia,"Pepper (Piper spp.), raw",130.225,26.7,4619,274421.03
+2019,Indonesia,Pineapples,130.225,26.7,1267865,274421.03
+2019,Indonesia,Potatoes,130.225,26.7,192701,274421.03
+2019,Indonesia,"Pumpkins, squash and gourds",130.225,26.7,619001,274421.03
+2019,Indonesia,Rice,130.225,26.7,51137,274421.03
+2019,Indonesia,"Seed cotton, unginned",130.225,26.7,1729,274421.03
+2019,Indonesia,"Sisal, raw",130.225,26.7,11189,274421.03
+2019,Indonesia,Soya beans,130.225,26.7,13990,274421.03
+2019,Indonesia,Spinach,130.225,26.7,40681,274421.03
+2019,Indonesia,Sugar cane,130.225,26.7,704508,274421.03
+2019,Indonesia,Sweet potatoes,130.225,26.7,207130,274421.03
+2019,Indonesia,Tea leaves,130.225,26.7,50328,274421.03
+2019,Indonesia,Tomatoes,130.225,26.7,186261,274421.03
+2019,Indonesia,Unmanufactured tobacco,130.225,26.7,11409,274421.03
+2019,Indonesia,"Vanilla, raw",130.225,26.7,1533,274421.03
+2019,Indonesia,Watermelons,130.225,26.7,151671,274421.03
+2020,Indonesia,"Abaca, manila hemp, raw",235.95833333333334,26.9,7859,213036.33
+2020,Indonesia,Areca nuts,235.95833333333334,26.9,4364,213036.33
+2020,Indonesia,Avocados,235.95833333333334,26.9,132747,213036.33
+2020,Indonesia,Bananas,235.95833333333334,26.9,466508,213036.33
+2020,Indonesia,"Beans, dry",235.95833333333334,26.9,11330,213036.33
+2020,Indonesia,Cabbages,235.95833333333334,26.9,214817,213036.33
+2020,Indonesia,Cantaloupes and other melons,235.95833333333334,26.9,168280,213036.33
+2020,Indonesia,Carrots and turnips,235.95833333333334,26.9,164769,213036.33
+2020,Indonesia,"Cashew nuts, in shell",235.95833333333334,26.9,3458,213036.33
+2020,Indonesia,"Cassava, fresh",235.95833333333334,26.9,260714,213036.33
+2020,Indonesia,Castor oil seeds,235.95833333333334,26.9,4201,213036.33
+2020,Indonesia,Cauliflowers and broccoli,235.95833333333334,26.9,130279,213036.33
+2020,Indonesia,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",235.95833333333334,26.9,88083,213036.33
+2020,Indonesia,"Cinnamon and cinnamon-tree flowers, raw",235.95833333333334,26.9,5521,213036.33
+2020,Indonesia,"Cloves (whole stems), raw",235.95833333333334,26.9,2535,213036.33
+2020,Indonesia,Cocoa beans,235.95833333333334,26.9,4776,213036.33
+2020,Indonesia,"Coconuts, in shell",235.95833333333334,26.9,60650,213036.33
+2020,Indonesia,"Coffee, green",235.95833333333334,26.9,6097,213036.33
+2020,Indonesia,Cucumbers and gherkins,235.95833333333334,26.9,107590,213036.33
+2020,Indonesia,"Edible roots and tubers with high starch or inulin content, n.e.c., fresh",235.95833333333334,26.9,60351,213036.33
+2020,Indonesia,Eggplants (aubergines),235.95833333333334,26.9,131355,213036.33
+2020,Indonesia,"Ginger, raw",235.95833333333334,26.9,246300,213036.33
+2020,Indonesia,Green corn (maize),235.95833333333334,26.9,58135,213036.33
+2020,Indonesia,Green garlic,235.95833333333334,26.9,63903,213036.33
+2020,Indonesia,"Groundnuts, excluding shelled",235.95833333333334,26.9,19697,213036.33
+2020,Indonesia,Kapok fruit,235.95833333333334,26.9,12263,213036.33
+2020,Indonesia,"Kenaf, and other textile bast fibres, raw or retted",235.95833333333334,26.9,8553,213036.33
+2020,Indonesia,Leeks and other alliaceous vegetables,235.95833333333334,26.9,93564,213036.33
+2020,Indonesia,Maize (corn),235.95833333333334,26.9,57002,213036.33
+2020,Indonesia,"Mangoes, guavas and mangosteens",235.95833333333334,26.9,131959,213036.33
+2020,Indonesia,Natural rubber in primary forms,235.95833333333334,26.9,8151,213036.33
+2020,Indonesia,"Nutmeg, mace, cardamoms, raw",235.95833333333334,26.9,1654,213036.33
+2020,Indonesia,Oil palm fruit,235.95833333333334,26.9,171417,213036.33
+2020,Indonesia,"Onions and shallots, dry (excluding dehydrated)",235.95833333333334,26.9,97134,213036.33
+2020,Indonesia,Oranges,235.95833333333334,26.9,382355,213036.33
+2020,Indonesia,"Other beans, green",235.95833333333334,26.9,75987,213036.33
+2020,Indonesia,"Other fruits, n.e.c.",235.95833333333334,26.9,125786,213036.33
+2020,Indonesia,"Other nuts (excluding wild edible nuts and groundnuts), in shell, n.e.c.",235.95833333333334,26.9,4794,213036.33
+2020,Indonesia,Other pulses n.e.c.,235.95833333333334,26.9,6059,213036.33
+2020,Indonesia,"Other stimulant, spice and aromatic crops, n.e.c.",235.95833333333334,26.9,242459,213036.33
+2020,Indonesia,Other sugar crops n.e.c.,235.95833333333334,26.9,28216,213036.33
+2020,Indonesia,"Other tropical fruits, n.e.c.",235.95833333333334,26.9,130998,213036.33
+2020,Indonesia,"Other vegetables, fresh n.e.c.",235.95833333333334,26.9,98563,213036.33
+2020,Indonesia,Papayas,235.95833333333334,26.9,937992,213036.33
+2020,Indonesia,"Pepper (Piper spp.), raw",235.95833333333334,26.9,4492,213036.33
+2020,Indonesia,Pineapples,235.95833333333334,26.9,1272222,213036.33
+2020,Indonesia,Potatoes,235.95833333333334,26.9,195481,213036.33
+2020,Indonesia,"Pumpkins, squash and gourds",235.95833333333334,26.9,679190,213036.33
+2020,Indonesia,Rice,235.95833333333334,26.9,51279,213036.33
+2020,Indonesia,"Seed cotton, unginned",235.95833333333334,26.9,2112,213036.33
+2020,Indonesia,"Sisal, raw",235.95833333333334,26.9,11135,213036.33
+2020,Indonesia,Soya beans,235.95833333333334,26.9,14815,213036.33
+2020,Indonesia,Spinach,235.95833333333334,26.9,38179,213036.33
+2020,Indonesia,Sugar cane,235.95833333333334,26.9,696781,213036.33
+2020,Indonesia,Sweet potatoes,235.95833333333334,26.9,210730,213036.33
+2020,Indonesia,Tea leaves,235.95833333333334,26.9,55740,213036.33
+2020,Indonesia,Tomatoes,235.95833333333334,26.9,189339,213036.33
+2020,Indonesia,Unmanufactured tobacco,235.95833333333334,26.9,11877,213036.33
+2020,Indonesia,"Vanilla, raw",235.95833333333334,26.9,1520,213036.33
+2020,Indonesia,Watermelons,235.95833333333334,26.9,167677,213036.33
+2021,Indonesia,"Abaca, manila hemp, raw",199.54999999999998,26.8,7813,283297.13
+2021,Indonesia,Areca nuts,199.54999999999998,26.8,4336,283297.13
+2021,Indonesia,Avocados,199.54999999999998,26.8,132500,283297.13
+2021,Indonesia,Bananas,199.54999999999998,26.8,601174,283297.13
+2021,Indonesia,"Beans, dry",199.54999999999998,26.8,11217,283297.13
+2021,Indonesia,Cabbages,199.54999999999998,26.8,224488,283297.13
+2021,Indonesia,Cantaloupes and other melons,199.54999999999998,26.8,174594,283297.13
+2021,Indonesia,Carrots and turnips,199.54999999999998,26.8,194064,283297.13
+2021,Indonesia,"Cashew nuts, in shell",199.54999999999998,26.8,3566,283297.13
+2021,Indonesia,"Cassava, fresh",199.54999999999998,26.8,266427,283297.13
+2021,Indonesia,Castor oil seeds,199.54999999999998,26.8,4197,283297.13
+2021,Indonesia,Cauliflowers and broccoli,199.54999999999998,26.8,134258,283297.13
+2021,Indonesia,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",199.54999999999998,26.8,85331,283297.13
+2021,Indonesia,"Cinnamon and cinnamon-tree flowers, raw",199.54999999999998,26.8,6422,283297.13
+2021,Indonesia,"Cloves (whole stems), raw",199.54999999999998,26.8,2399,283297.13
+2021,Indonesia,Cocoa beans,199.54999999999998,26.8,4862,283297.13
+2021,Indonesia,"Coconuts, in shell",199.54999999999998,26.8,60750,283297.13
+2021,Indonesia,"Coffee, green",199.54999999999998,26.8,6125,283297.13
+2021,Indonesia,Cucumbers and gherkins,199.54999999999998,26.8,109243,283297.13
+2021,Indonesia,"Edible roots and tubers with high starch or inulin content, n.e.c., fresh",199.54999999999998,26.8,60357,283297.13
+2021,Indonesia,Eggplants (aubergines),199.54999999999998,26.8,133842,283297.13
+2021,Indonesia,"Ginger, raw",199.54999999999998,26.8,289578,283297.13
+2021,Indonesia,Green corn (maize),199.54999999999998,26.8,59534,283297.13
+2021,Indonesia,Green garlic,199.54999999999998,26.8,65651,283297.13
+2021,Indonesia,"Groundnuts, excluding shelled",199.54999999999998,26.8,21083,283297.13
+2021,Indonesia,Kapok fruit,199.54999999999998,26.8,12209,283297.13
+2021,Indonesia,"Kenaf, and other textile bast fibres, raw or retted",199.54999999999998,26.8,8446,283297.13
+2021,Indonesia,Leeks and other alliaceous vegetables,199.54999999999998,26.8,101797,283297.13
+2021,Indonesia,Maize (corn),199.54999999999998,26.8,57237,283297.13
+2021,Indonesia,"Mangoes, guavas and mangosteens",199.54999999999998,26.8,133554,283297.13
+2021,Indonesia,Natural rubber in primary forms,199.54999999999998,26.8,8454,283297.13
+2021,Indonesia,"Nutmeg, mace, cardamoms, raw",199.54999999999998,26.8,1661,283297.13
+2021,Indonesia,Oil palm fruit,199.54999999999998,26.8,171046,283297.13
+2021,Indonesia,"Onions and shallots, dry (excluding dehydrated)",199.54999999999998,26.8,103024,283297.13
+2021,Indonesia,Oranges,199.54999999999998,26.8,385333,283297.13
+2021,Indonesia,"Other beans, green",199.54999999999998,26.8,76241,283297.13
+2021,Indonesia,"Other fruits, n.e.c.",199.54999999999998,26.8,125129,283297.13
+2021,Indonesia,"Other nuts (excluding wild edible nuts and groundnuts), in shell, n.e.c.",199.54999999999998,26.8,4794,283297.13
+2021,Indonesia,Other pulses n.e.c.,199.54999999999998,26.8,6056,283297.13
+2021,Indonesia,"Other stimulant, spice and aromatic crops, n.e.c.",199.54999999999998,26.8,247435,283297.13
+2021,Indonesia,Other sugar crops n.e.c.,199.54999999999998,26.8,28269,283297.13
+2021,Indonesia,"Other tropical fruits, n.e.c.",199.54999999999998,26.8,130972,283297.13
+2021,Indonesia,"Other vegetables, fresh n.e.c.",199.54999999999998,26.8,98962,283297.13
+2021,Indonesia,Papayas,199.54999999999998,26.8,951406,283297.13
+2021,Indonesia,"Pepper (Piper spp.), raw",199.54999999999998,26.8,4301,283297.13
+2021,Indonesia,Pineapples,199.54999999999998,26.8,1292117,283297.13
+2021,Indonesia,Potatoes,199.54999999999998,26.8,189601,283297.13
+2021,Indonesia,"Pumpkins, squash and gourds",199.54999999999998,26.8,665725,283297.13
+2021,Indonesia,Rice,199.54999999999998,26.8,52263,283297.13
+2021,Indonesia,"Seed cotton, unginned",199.54999999999998,26.8,3690,283297.13
+2021,Indonesia,"Sisal, raw",199.54999999999998,26.8,11265,283297.13
+2021,Indonesia,Soya beans,199.54999999999998,26.8,14792,283297.13
+2021,Indonesia,Spinach,199.54999999999998,26.8,37033,283297.13
+2021,Indonesia,Sugar cane,199.54999999999998,26.8,718750,283297.13
+2021,Indonesia,Sweet potatoes,199.54999999999998,26.8,220418,283297.13
+2021,Indonesia,Tea leaves,199.54999999999998,26.8,50244,283297.13
+2021,Indonesia,Tomatoes,199.54999999999998,26.8,187605,283297.13
+2021,Indonesia,Unmanufactured tobacco,199.54999999999998,26.8,11544,283297.13
+2021,Indonesia,"Vanilla, raw",199.54999999999998,26.8,1528,283297.13
+2021,Indonesia,Watermelons,199.54999999999998,26.8,138295,283297.13
