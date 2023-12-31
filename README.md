@@ -12,4 +12,4 @@ Sources for the Data :
 ## Directory
 
 - Crop_Yield_All.ipynb : code for merging all the data together
-- Explore_Data.ipynb : code for data exploration (EDA)
+- DataVisualization.ipynb : code for data exploration (EDA)
