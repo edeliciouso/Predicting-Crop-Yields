@@ -13,3 +13,6 @@ Sources for the Data :
 
 - Crop_Yield_All.ipynb : code for merging all the data together
 - DataVisualization.ipynb : code for data exploration (EDA)
+- RandomForest.ipynb : code for testing the random forest model
+- LinearRegression.ipynb : code for testing the linear regression model
+- DecisionTree.ipynb : code for testing the decision tree model
