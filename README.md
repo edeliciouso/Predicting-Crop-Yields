@@ -6,6 +6,10 @@
 - Edelyne Keisha (2602169850)
 - Jessica Angela Huang (2602213031)
 
+## Goal
+
+To compare the machine learning models that we have chosen to predict the amount of crops that will be produced in Indonesia based on data from 2010 - 2021.
+
 ## Data
 All the data that we used is located in the [csv file](https://github.com/edeliciouso/Predicting-Crop-Yields/tree/1ec1d58b85377390a8dffb3491bec025482edcbf/csv%20file) folder.
 
@@ -17,8 +21,8 @@ Sources for the Data :
 
 ## Directory
 
-- Crop_Yield_All.ipynb : code for merging all the data together
-- DataVisualization.ipynb : code for data exploration (EDA)
-- RandomForest.ipynb : code for testing the random forest model
-- LinearRegression.ipynb : code for testing the linear regression model
-- DecisionTree.ipynb : code for testing the decision tree model
+- Crop_Yield_All.ipynb : contains the code for merging all the data together
+- DataVisualization.ipynb : contains the code for data exploration (EDA)
+- RandomForest.ipynb : contains the testing using the Random Forest model
+- LinearRegression.ipynb : contains the testing using the Linear Regression model
+- DecisionTree.ipynb : contains the testing using the Decision Tree model
