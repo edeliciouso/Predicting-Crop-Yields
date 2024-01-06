@@ -28,3 +28,4 @@ Sources for the Data :
 - DecisionTree.ipynb : contains the testing using the Decision Tree model
 - RidgeRegression.ipynb : contains the testing using the Ridge Regression model
 - XGBoost.ipynb : contains the testing using the XGBoost model
+- KNN.ipynb : contains the testing using the K-Nearest-Neighbors model
