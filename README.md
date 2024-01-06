@@ -26,3 +26,5 @@ Sources for the Data :
 - RandomForest.ipynb : contains the testing using the Random Forest model
 - LinearRegression.ipynb : contains the testing using the Linear Regression model
 - DecisionTree.ipynb : contains the testing using the Decision Tree model
+- RidgeRegression.ipynb : contains the testing using the Ridge Regression model
+- XGBoost.ipynb : contains the testing using the XGBoost model
